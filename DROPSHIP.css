@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dropship</title>
+    <style>
+        div.scrollmenu {
+      background-color: rgba(28, 142, 170, 0.555);
+      overflow: auto;
+      white-space: nowrap;
+    }
+    
+    div.scrollmenu a {
+      display: inline-block;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      text-decoration: none;
+    }
+    
+    div.scrollmenu a:hover {
+      background-color: rgba(201, 198, 49, 0.3);
+      
+    }
+    body {
+         background-image: url('images/biodata bg.png');
+        background-attachment:fixed;
+      background-position: center;
+      background-size: 100% 100%;
+      display: block;
+    }
+    </style>
+    <body>
+    
+    <center>
+       <div class="scrollmenu">
+        <a href="Index.html">Homepage</a>
+        <a href="Biodata.html">Biodata</a>
+        <a href="Experience.html">Experience</a>
+        <a href="Education.html">Education</a>
+        <a href="Family.html">Family</a>
+        <a href="Gallery.html">Gallery</a>
+        <a href="Achievement.html">Achievement</a>
+        <a href="Contact.html">Contact</a>
+      </div>
+      <center></center>
+  <h2>DROPSHIP</h2>
+<style>
+    
+    body {
+        background-image: url('images/facilitator\,jpk\,ds\ bg.png');
+        background-attachment: fixed;
+        background-position: center; 
+        background: size 100px 100px;
+        display:block
+        
+    }
+* {
+  box-sizing: border-box;
+}
+
+.img-container {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+p {
+  font-size: 15px;
+  font-family: cursive;
+}
+h2 {font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: oblique;
+font-stretch: semi-condensed;}
+
+</style>
+</head>
+<body>
+
+
+<div class="clearfix">
+  <div class="img-container">
+  <img src="images/SABELLA.png" alt="facilitator 1"  width= 500 height= "500"/>
+  </div>
+  <div class="img-container">
+  <img src="images/SABELLA 1.jpeg" alt="facilitator 2"  width= 500 height= "500"/>
+  </div>
+  <div class="img-container">
+  <img src="images/SABELLA 3.png" alt="facilitator 3" width= 500 height= "500"/>
+   </div>
+</div>
+<br><br>
+
+<p><b><i>I start do a dropship job by the middle of pandemic.
+     I think that I need to walk away and avoid with not doing anything. 
+     The first product that I sell while doing a dropship was a cloth product by SABELLA. 
+     By that time, the brand was quite popular and I can get the target sell every month. 
+     It was interesting that I could sell the product and can save some of my pocket money. 
+     I also able to give my parent monthly present. 
+     I am fell over the heel because giving my parents happy was my everyay dream. 
+     We will feel so happy when we see our parents smile. so, it same goes to me. 
+     I also got promotion by my leader like free blouse, skirt and more because I can catch the target. 
+     Being a dropship also help me to learn about life. Sometimes, I motivate myself telling that how hard the outside living.
+      We need to prepare with everthings like physical, mental and also knowledge. we cannot stay put because all we need these day was a confident.
+       when we have a confident, people will not hesitate to work with us and we can find our own life. It was what I get while creating the experience as a dropship.
+        Dropship was a simple works that not everyone can do but, everyone can try. .<P></b></i>
+    <center>  
+     <h2> Fighting!<h2>
+</body>
+</html>

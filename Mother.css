@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Facilitator</title>
+    <style>
+        div.scrollmenu {
+      background-color: rgba(28, 142, 170, 0.555);
+      overflow: auto;
+      white-space: nowrap;
+    }
+    
+    div.scrollmenu a {
+      display: inline-block;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      text-decoration: none;
+    }
+    
+    div.scrollmenu a:hover {
+      background-color: rgba(201, 198, 49, 0.3);
+      
+    }
+    body {
+         background-image: url('images/facilitator\,jpk\,ds\ bg.png');
+        background-attachment:fixed;
+      background-position: center;
+      background-size: 100% 100%;
+      display: block;
+    }
+    img {
+  display: inline-block;
+  size: 30px;
+ 
+}
+p{font-family: cursive;
+font-size: 15px;
+}
+    </style>
+    <body>
+    
+    <center>
+       <div class="scrollmenu">
+        <a href="Index.html">Homepage</a>
+        <a href="Biodata.html">Biodata</a>
+        <a href="Experience.html">Experience</a>
+        <a href="Education.html">Education</a>
+        <a href="Family.html">Family</a>
+        <a href="Gallery.html">Gallery</a>
+        <a href="Achievement.html">Achievement</a>
+        <a href="Contact.html">Contact</a>
+      </div>
+      <br><br>
+      <center></center>
+      <div class="clearfix">
+        <div class="img-container">
+        <img src="images/mom.jpg" alt="ASYRAN"  width= 450 height= "600"/>
+        </div>
+        </div>
+      <p><b> This is the most powerful woman, Her name is Mariah Binti Yakop. She is a house wife. She is my nother. My mother is 48 years old. 
+        She always cooks something delicious when her daughter back from hostel. My mother was a kind person, 
+        she always help my neighbour because she said that they are old lady and someone will help her when she is old. her words always motivate me to be like her.
+        She always said to us that she want to see us being successful and I promise that all of us will prove that to our parents. 
+        I would like to say thank ou to my mom for raising, taking care and makeme being a person that have benefits to people around. 
+        I really envy to my mother because she is able to make all her daughter good and she can raise all of us nicely. thank you so much mom. We all love you and you are the best mother ever.
+      </b></p>

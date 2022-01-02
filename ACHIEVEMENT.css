@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title>Experience</title>
+<style>
+    div.scrollmenu {
+  background-color: rgba(28, 142, 170, 0.555);
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+  background-color: rgba(201, 198, 49, 0.3);
+  
+}
+body {
+ 	background-image: url('images/biodata bg.png');
+	background-attachment:fixed;
+  background-position: center;
+  background-size: 100% 100%;
+  display: block;
+}
+h1 {font-family: 'Times New Roman', Times, serif;
+font-size: xx-large;
+}
+
+h2 {font-family: initial;
+    font-size: small;
+}
+p {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 30px;
+padding: 15px;
+text-align: justify;
+text-transform: capitalize;
+text-indent: initial;
+text-decoration-color: rgb(4, 34, 44);
+text-emphasis-color: rgb(3, 58, 80);}
+
+</style>
+<body>
+
+<center>
+   <div class="scrollmenu">
+    <a href="Index.html">Homepage</a>
+    <a href="Biodata.html">Biodata</a>
+    <a href="Experience.html">Experience</a>
+    <a href="Education.html">Education</a>
+    <a href="Family.html">Family</a>
+    <a href="Gallery.html">Gallery</a>
+    <a href="Achievement.html">Achievement</a>
+    <a href="Contact.html">Contact</a>
+  </div>
+  <center></center>
+  <h1>ACHIEVEMENT</h1>
+  <h2 class="text-align"><i>"Thank you for your support"</i></h2>
+<br><br>
+<div class="clearfix">
+    <div class="img-container">
+    <img src="images/MASIH ADA SAYANG.png" alt="facilitator 1"  width= 400 height= "400"/>
+    </div>
+    <br><br>
+    <div class="img-container">
+    <img src="images/Program Masih Ada Sayang (1).png" alt="facilitator 2"  width= 400 height= "400"/>
+    </div>
+  </div>
+<br><br>
+<p><b>I would like to state my achivement for this year that are accomplish. At first I have a hope to give people food even not with my money.So, I have think a lot about it. 
+    I feel insevure when people help strangers by giving food and more. 
+    Luckily, I got an idea where, I make a proposal as a collage representatives committee and make a program called "MASIH ADA SAYANG".
+In the program, I ask to give people about 50 pack of food a day. The programs has been done for for days. I felt so interesting because I can give people food. 
+It is because we can know that some of univerity student cannot afford their daily food. 
+It is so pity of them,with this program it can help them to eat like always and fell they are at home. 
+in my opinion, I think this program leaves positives impact to all the participant and also organizer. 
+So, this is my big achivement because I can arrange to give food for student by not using my own money. 
+Besides, I really hope that I can use my own money for the next time. It was my 2022 hopes that I will fulfill with the willing of God. </b></p> </div> 
+<br><br>
+<div class="clearfix">
+    <div class="img-container">
+    <img src="images/Program Masih Ada Sayang (2).png" alt="facilitator 1"  width= 400 height= "400"/>
+    </div>
+    <br><br>
+    <div class="img-container">
+    <img src="images/Program Masih Ada Sayang.png" alt="facilitator 2"  width= 400 height= "400"/>

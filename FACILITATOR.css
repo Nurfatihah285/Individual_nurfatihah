@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Facilitator</title>
+    <style>
+        div.scrollmenu {
+      background-color: rgba(28, 142, 170, 0.555);
+      overflow: auto;
+      white-space: nowrap;
+    }
+    
+    div.scrollmenu a {
+      display: inline-block;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      text-decoration: none;
+    }
+    
+    div.scrollmenu a:hover {
+      background-color: rgba(201, 198, 49, 0.3);
+      
+    }
+    body {
+         background-image: url('images/facilitator\,jpk\,ds\ bg.png');
+        background-attachment:fixed;
+      background-position: center;
+      background-size: 100% 100%;
+      display: block;
+    }
+    </style>
+    <body>
+    
+    <center>
+       <div class="scrollmenu">
+        <a href="Index.html">Homepage</a>
+        <a href="Biodata.html">Biodata</a>
+        <a href="Experience.html">Experience</a>
+        <a href="Education.html">Education</a>
+        <a href="Family.html">Family</a>
+        <a href="Gallery.html">Gallery</a>
+        <a href="Achievement.html">Achievement</a>
+        <a href="Contact.html">Contact</a>
+      </div>
+      <center></center>
+  <h2>FACILITATOR</h2>
+<style>
+    
+    body {
+        background-image: url('images/facilitator\,jpk\,ds\ bg.png');
+        background-attachment: fixed;
+        background-position: center; 
+        background: size 100px 100px;
+        display:block
+        
+    }
+* {
+  box-sizing: border-box;
+}
+
+.img-container {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+  p {
+  font-size: 15px;
+  font-family: cursive;
+}
+h2 {font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: oblique;
+font-stretch: semi-condensed;}
+
+images/.img-container {border: 500px;
+border-color: lightsalmon;
+}
+</style>
+</head>
+<body>
+
+
+<div class="clearfix">
+  <div class="img-container">
+  <img src="images/3.png" alt="facilitator 1"  width= 400 height= "400"/>
+  </div>
+  <div class="img-container">
+  <img src="images/2.png" alt="facilitator 2"  width= 400 height= "400"/>
+  </div>
+  <div class="img-container">
+  <img src="images/1.png" alt="facilitator 3" width= 400 height= "400"/>
+   </div>
+</div>
+<br><br>
+
+<p><b><i>Being a facilitator during my study period gives e a lot of experience where I can learn everything in term of being a leader and guide the works. 
+    This programmes teaches me how to be dicipline in every scope because I am a student but the leader at the same time. 
+    So, I must show my good attitude to the participant who are participate in the programmes. 
+    Other than that, I can be their role models. Besides, they will be positives and become more discipline as they are being taught the important of the time and action.</b></i><p></p>
+<br><br>
+    <div class="clearfix">
+      <div class="img-container">
+      <img src="images/4.png" alt="facilitator 1"  width= 400 height= "400"/>
+      </div>
+      <div class="img-container">
+      <img src="images/5.png" alt="facilitator 2"  width= 400 height= "400"/>
+      </div>
+      <div class="img-container">
+      <img src="images/6.png" alt="facilitator 3" width= 400 height= "400"/>
+       </div>
+    </div>
+    </body>
+</html>

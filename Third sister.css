@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Facilitator</title>
+    <style>
+        div.scrollmenu {
+      background-color: rgba(28, 142, 170, 0.555);
+      overflow: auto;
+      white-space: nowrap;
+    }
+    
+    div.scrollmenu a {
+      display: inline-block;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      text-decoration: none;
+    }
+    
+    div.scrollmenu a:hover {
+      background-color: rgba(201, 198, 49, 0.3);
+      
+    }
+    body {
+         background-image: url('images/facilitator\,jpk\,ds\ bg.png');
+        background-attachment:fixed;
+      background-position: center;
+      background-size: 100% 100%;
+      display: block;
+    }
+    img {
+  display: inline-block;
+  size: 30px;
+ 
+}
+p{font-family: cursive;
+font-size: 15px;
+}
+    </style>
+    <body>
+    
+    <center>
+       <div class="scrollmenu">
+        <a href="Index.html">Homepage</a>
+        <a href="Biodata.html">Biodata</a>
+        <a href="Experience.html">Experience</a>
+        <a href="Education.html">Education</a>
+        <a href="Family.html">Family</a>
+        <a href="Gallery.html">Gallery</a>
+        <a href="Achievement.html">Achievement</a>
+        <a href="Contact.html">Contact</a>
+      </div>
+      <br><br>
+      <center></center>
+      <div class="clearfix">
+        <div class="img-container">
+        <img src="images/jammy.jpeg" alt="ASYRAN"  width= 450 height= "600"/>
+        </div>
+        </div>
+      <p><b> This is my third sister. We call her kak Lah just because her name is Jamilah Shahirah. 
+          She was students of Universiti Teknologi Mara, Puncak Alam. She is study in accounting.this semester was her last semester before graduation. 
+          She is a brave girl even she love sleeping. I do envy her. she is 24 Years old. 
+          From high school, my sister take major in accounting because she would like to be a professional accountant. 
+          I praise that she can be the best among the best. Love you sister.
+            I love my sister so much.  
+      </b></p>

@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title>Biodata</title>
+<style>
+    div.scrollmenu {
+  background-color: rgba(28, 142, 170, 0.555);
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+  background-color: rgba(201, 198, 49, 0.3);
+  
+}
+body {
+ 	background-image: url('images/biodata bg.png');
+	background-attachment:fixed;
+  background-position: center;
+  background-size: 100% 100%;
+  display: block;
+}
+p {
+font-family: 'Courier New', Courier, monospace;
+ font-size: medium;
+ font-display:center;
+ }
+table {
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+border-collapse: collapse;
+ width: 100%;
+}
+                        
+td, th {
+border: 1.5px solid #0a0a02;
+text-align: left;
+padding: 8px;
+}
+                        
+tr:nth-child(even) {
+background-color: #1b86b162;
+}
+h1 {font-family: 'Times New Roman', Times, serif;
+  font-size: xx-large;
+}
+
+h2 {font-family: initial;
+ font-size: small;
+}
+#biodata tr:nth-child(odd){background-color: #f5d4e5;}
+#biodata tr:hover {background-color:rgba(201, 198, 49, 0.3);}
+
+</style>
+</head>
+<body>
+
+<center>
+   <div class="scrollmenu">
+    <a href="Index.html">Homepage</a>
+    <a href="Biodata.html">Biodata</a>
+    <a href="Experience.html">Experience</a>
+    <a href="Education.html">Education</a>
+    <a href="Family.html">Family</a>
+    <a href="Gallery.html">Gallery</a>
+    <a href="Achievement.html">Achievement</a>
+    <a href="Contact.html">Contact</a>
+  </div>
+  </center>
+  <center>
+  <h1>MY BIODATA</h1> 
+  <h2 class="text-align"><i>"I am a happy girl",</i></h2>
+  <img src="images/teha 2.png" class="text-align: center;-opacity -hover-opacity-off" alt="My picture"
+                    width="900" height="600">
+                    <div class="w3-col m6 w3-hide-small w3-padding-large"></center>
+
+                        <p><b>Welcome to my website. I am Nurfatihah Binti Abu Bakar. I am 20 years old. my birthday was at 28 May 2001. I am 5 of 6 siblings.
+                        I have sisters and younger sister.I did not have boy siblings and all of us were girls. In our family, there are only my father that was male.
+                        Now, I am last years of Diploma in Information Management. It was amazing to learn this course these two and half years. I hope that I can do the best and I can achive my ambition. </p></b>
+                    </div>
+                </div>
+                    <style>
+                    
+                        </style>
+                        </head>
+                        <body>
+                        
+                        <table>
+                          <tr>
+                            <th>Name</th>
+                            <td>Nurfatihah Binti Abu Bakar</td>
+                          </tr>
+                          
+                          <tr>
+                            <th>Age</th>
+                            <td>20 years old</td>
+                          </tr>
+                          
+                          <tr>
+                            <th>Class</th>
+                            <td>KIM1105E</td>
+                          </tr>
+                          
+                          <tr>
+                            <th>Program</th>
+                            <td>Diploma In Information Management</td>
+                          </tr>
+                          
+                          <tr>
+                            <th>Course Name</th>
+                            <td>Introduction to Web Content Management and Design</td>
+                          </tr>
+                          
+                          <tr>
+                            <th>Course Code</th>
+                            <td>IMD 311</td>
+                          </tr>
+
+                          <tr>
+                            <th>Favourite colour</th>
+                            <td>Black</td>
+                            </tr>
+
+                          <tr>
+                            <th>Favourite food</th>
+                            <td>Speghetti</td>
+                            </tr>
+                          
+                          <tr>
+                            <th>Purpose of this website</th>
+                            <td>Assignment Purpose</td>
+                            </tr>
+                            
+                           <tr>
+                            <th>Prepare For</th>
+                            <td>Ahmed Noor Kader Mustajir Bin Md Eusoff</td>
+                            </tr> 
+                            
+</table>
+</body>
+</html>
